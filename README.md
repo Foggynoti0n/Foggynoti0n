@@ -60,3 +60,5 @@
 <a href="https://www.instagram.com/_froggynotion/?next=%2F" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ludmila-rosa-miranda/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rutvikjoshi" height="30" width="40" /></a>
 
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rutvikjoshi" height="30" width="40" /> <h3>lurm98@gmail.com</h3>
+
