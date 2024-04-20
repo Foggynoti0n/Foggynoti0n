@@ -2,7 +2,9 @@
 
 <img width="5506" alt="FigJam basics (4)" src="https://github.com/Foggynoti0n/Ludmila-Rosa-Miranda/assets/88888936/7e1eea1c-b60a-4638-8ed0-2bb7e4e6c1c5">
 
-<p>I consider myself an enthusiast in the IT world, so I'm always seeking out new knowledge. I've completed several courses in the field. I'm interested in finding environments where I can further develop my communication skills, engage in group interaction, and continue learning and improving in programming.</p>
+###  :shipit: About me
+<p>I consider myself an enthusiast in the IT world, i've completed several courses in the field, so I'm always seeking out new knowledge.</p>
+<p> I'm interested in finding environments where I can further develop my communication skills, engage in group interaction, and continue learning and improving in programming.</p>
 
 ### 💻 I'm working on
 - [Wearfashion](https://wearfashion.vercel.app/)
