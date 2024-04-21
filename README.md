@@ -1,6 +1,8 @@
+<p align="center" ><img src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg " alt="rutvikjoshi" height="200" width="200" /></p>
+<h1 align="center" >Hi! I'm Ludmila</h1>
 
 
-<img width="5506" alt="FigJam basics (4)" src="https://github.com/Foggynoti0n/Ludmila-Rosa-Miranda/assets/88888936/7e1eea1c-b60a-4638-8ed0-2bb7e4e6c1c5">
+
 
 ###  :shipit: About me
 <p>I consider myself an enthusiast in the IT world, i've completed several courses in the field, so I'm always seeking out new knowledge.</p>
